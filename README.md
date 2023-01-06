@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @shane-jeon, a coding bootcamp grad trained as a Fullstack engineer. Throughout my job search and from my most recent internship experience, I realized my interests and passion lie in Frontend development! Since then I have actively been focusing my studies to usher me towards a path to finding work as a Frontend software engineer.
+- 👋 Hi, I’m @shane-jeon, transitioning from Backend to Mobile development (Android)
 
-- 👀 I’m interested in Frontend development.
+- 👀 Mobile Development (Android)
 
-- 🌱 I’m currently learning Vue.js and further refining my understanding of JavaScript and React. 
+- 🌱 Actively learning Kotlin, while refining HTML, CSS, JS, and React in regularly updating personal website
   
-- 📫 How to reach me ... by e-mail: shanexjeonx@gmail.com or through [LinkedIn](https://www.linkedin.com/in/shane-jeon-7b2663160/)
+- 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/shane-jeon-7b2663160/)
 
 <!---
 shane-jeon/shane-jeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
