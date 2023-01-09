@@ -2,7 +2,7 @@
 
 - 👀 Mobile Development (Android)
 
-- 🌱 Actively learning Kotlin, while refining HTML, CSS, JS, and React in regularly updating personal website
+- 🌱 Actively learning Kotlin, developing Python fluency, and occassionally refining HTML, CSS, JS, and React in periodically updating my portfolio website
   
 - 📫 How to reach me ... [LinkedIn](https://www.linkedin.com/in/shane-jeon-7b2663160/)
 
