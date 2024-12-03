@@ -1,9 +1,10 @@
 # Greetings 👋 !
 
-Hello world, I'm Shane, a developer with a passion for building 🤖 and debugging 👾. My journey into software engineering began with an internship in Quality Assurance, where I developed a strong foundation in testing and problem-solving. Since then, I’ve expanded my skills through contract work with non-profit organizations and have focused primarily on Frontend Development.
+Shane, a resourceful Freelance Frontend Engineer with experience working with non-profit organizations. I work primarily with React, TypeScript, Next.js, and TailwindCSS.
 
-I’m always looking for creative ways to grow my experience and skills—whether it’s volunteering at tech conferences 🎤, attending industry events 🏙️, or participating in Bay Area hackathons 💡. I’m excited to find my place in a specialized area of tech 💻 where I can make a meaningful impact.
+In Shane's free time, they like to network and discover creative ways to refine their existing skillset while learning new technologies. Shane is an active participant in Bay Area tech conferences, industry and networking events, and hackathons.
 
+Their most recent participation in the 2024 San Francisco ETHGlobal Hackathon piqued an interest in Web3 and is redirecting their interest into the realm of blockchain technologies!
 
 ## Tech Stack & Software
 I've built projects in the past with the following technologies:
